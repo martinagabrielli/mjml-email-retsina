@@ -1,0 +1,68 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
+    <mj-section background-color="#021E73" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding="10px 25px" src="https://i.postimg.cc/JzK7W6rr/retsina-logo2.png" width="128px" border="5px solid #BF7E04" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding="10px 25px" src="https://i.postimg.cc/RCkbgR1h/enjoy3.png" width="600px" />
+      <mj-image align="center" padding="10px 25px 0 25px" src="https://i.postimg.cc/PJ04K4Gj/retsina-img.jpg" width="600px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="0px 0 20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+      <mj-text align="center">
+        <h1>A Journey Through Taste...</h1>
+      </mj-text>
+        <mj-text align="justify" color="#55575d" font-family="Arial, sans-serif" font-size="14px" line-height="28px" padding="0px 25px 0px 25px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et magna volutpat, sollicitudin dui ut, tempor elit. Maecenas egestas id dui sed vulputate.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="10px 0 20px 0" text-align="center" vertical-align="top">
+      <mj-column width="300px">
+        <mj-image align="center" padding="10px 25px" src="https://images.unsplash.com/photo-1543418219-44e30b057fea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80" width="600px" border="5px double #F2CF66" />
+      </mj-column>
+      <mj-column width="300px">
+        <mj-text align="justify" color="#55575d" font-family="Arial, sans-serif" font-size="14px" line-height="26px" padding="5px 25px 0 30px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur massa libero, vestibulum ac mattis nec, commodo ut augue. Nam id augue pretium, venenatis est eget, laoreet neque. In est mi, porttitor ac leo ut condimentum.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="10px 0 20px 0" text-align="center" vertical-align="top">
+      <mj-column width="300px">
+        <mj-text align="justify" color="#55575d" font-family="Arial, sans-serif" font-size="14px" line-height="26px" padding="10px 25px 0 30px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur massa libero, vestibulum ac mattis nec, commodo ut augue. Nam id augue pretium, venenatis est eget, laoreet neque. In est mi, porttitor ac leo ut condimentum.</mj-text>
+      </mj-column>
+      <mj-column width="300px">
+        <mj-image align="center" padding="10px 25px" src="https://images.unsplash.com/photo-1558346489-19413928158b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" width="600px" border="5px double #F2CF66" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-divider width="100%"  border-width="1px" border-style="solid" border-color="lightgrey" />
+        <mj-image src="https://greek-wineries.com/imagebank/retsina-cavino1029_b.jpg" width="300px" />
+        <mj-text font-size="16px" align="center" text-decoration="underline">6 bottles for the price of 4</mj-text>
+        <mj-button background-color="#BF7E04" color="white">
+          Buy Now!
+         </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#021E73" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+      
+        <mj-navbar base-url="https://mjml.io" ico-color="#ffffff">
+          <mj-navbar-link href="/gettings-started-onboard" color="#ffffff">View Online</mj-navbar-link>
+          <mj-navbar-link href="/try-it-live" color="#ffffff">Unsubscribe</mj-navbar-link>
+        </mj-navbar>
+      
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" background-size="auto" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="11px" line-height="22px" padding="0 20px">[[DELIVERY_INFO]]</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
