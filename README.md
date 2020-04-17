@@ -1,3 +1,3 @@
 # mjml-email-retsina
 
-An email for Retsina wine build with mjml framework.
+An email for Retsina wine built with mjml framework.
